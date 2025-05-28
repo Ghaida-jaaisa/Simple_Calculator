@@ -1,3 +1,3 @@
 # Simple_Calculator
 
-<img src="https://github.com/user-attachments/assets/73f8c624-bbbf-4d13-adce-9ee87f2c4fa8" width="500px" height="500px">
+<img src="https://github.com/user-attachments/assets/73f8c624-bbbf-4d13-adce-9ee87f2c4fa8" width="700px" height="700px">
